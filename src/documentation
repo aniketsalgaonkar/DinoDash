@@ -1,0 +1,8 @@
+swing is a inbuilt method which comes under javax.swing package;
+import javax.swing.*;
+create JFrame object (to create a desktop application for Dinodash)
+setVisible = true (to see application)
+setSize(width,heigth) of frame(application)
+setResizable = false  (so frame cannot be resized)
+
+
